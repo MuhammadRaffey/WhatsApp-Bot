@@ -1,0 +1,5 @@
+.env
+.venv
+compress.py
+ffmpeg.exe
+ytVid.py
