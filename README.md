@@ -1,4 +1,3 @@
-
 # WhatsApp Chatbot with GreenAPI Integration
 
 ## Overview
@@ -19,7 +18,7 @@ This is a WhatsApp chatbot developed using Python, integrated with GreenAPI for 
 1. Clone the repository:
 
    ```bash
-   https://github.com/MuhammadRaffey/WhatsApp-Bot.git
+   git clone https://github.com/MuhammadRaffey/WhatsApp-Bot.git
    ```
 
 2. Install dependencies:
@@ -31,7 +30,7 @@ This is a WhatsApp chatbot developed using Python, integrated with GreenAPI for 
 3. Download ffmpeg:
 
    - **Mega link for ffmpeg**: [Download ffmpeg](https://mega.nz/file/gGsXSZxY#95nf-S29McYpoqeFJ8oKWQnlkEdYIqxtdzr77zwhCHw)
-   
+
    After downloading, place the ffmpeg executable in the root directory of the project.
 
 4. Create a `.env` file in the root directory and add the following environment variables:
